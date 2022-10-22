@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Tukio" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_dark</item>
+        <!-- Tertiary brand color.  -->
+        <item name="colorTertiary">@color/tertiary_dark</item>
+        <!-- Background color. -->
+        <item name="android:colorBackground">@color/background_dark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Navigation bar color. -->
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <!-- Font family -->
+        <item name="fontFamily">@font/product_sans</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tukio</string>
+    <string name="tukio_home_screen_logo">Tukio HomeScreen Logo</string>
+    <string name="onboarding_title_1">Grab all events now only in your hands</string>
+    <string name="onboarding_title_2">Easy payments &amp; fast event ticketing</string>
+    <string name="onboarding_title_3">Let\'s go to your favorite event right now</string>
+    <string name="onboarding_viewpager_item_image">Onboarding ViewPager Item Image</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="tukio_logo">Tukio Logo</string>
+    <string name="let_s_you_in">Let\'s you in</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+</resources>
